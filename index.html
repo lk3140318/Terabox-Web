@@ -113,7 +113,7 @@
 
             const id = urlInput.split("/").pop();
 
-            let response = await fetch(`https://wholly-api.skinnyrunner.com/get/website-data.php?get_html=https://www.terabox.tech/api/yttera?id=${id}`);
+            let response = await fetch(`https://terabox.darkhacker7301.workers.dev/?id=${id}`);
             response = await response.text();
             const data = JSON.parse(response);
 
