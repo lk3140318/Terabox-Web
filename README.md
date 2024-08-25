@@ -1,28 +1,28 @@
-# Terabox-Web
+### Terabox-Web
 
 ⭐Terabox Video Downloader API ✅
+ Easily download videos from Terabox with our efficient and straightforward API. Perfect for developers and users who need 
+ quick access to video content for their projects.
 
-1. WHAT IT DOES: 🎥 Helps you download Terabox videos easily. Just give the video link, and it gives you the video to use in your projects.
+## 🌟 What It Does
+🎥 Terabox Video Downloader API simplifies the process of downloading videos from Terabox. Just provide the video link or ID, and our API will retrieve the video for you, ready to use in your projects.
 
-2. HOW TO USE: 🚀 Put the Terabox video link in the URL, like this: 
+## 🚀 How to Use
+# By Video URL:
+ Simply insert the Terabox video URL into the API endpoint:
+``` https://ashlynn.serv00.net/Ashlynnterabox.php/?url=TERABOX_VIDEO_URL```
+or
+ ```https://teraboxapi2.darkhacker7301.workers.dev/?url=Terabox_Video_Url```
+# By Video ID:
+ Alternatively, you can download the video using its unique ID:
+ ```https://terabox.darkhacker7301.workers.dev/?id=Terabox_Video_id_here```
 
-https://ashlynn.serv00.net/Ashlynnterabox.php/?url=TERABOX_VIDEO_URL
+## 🔄 How It Works
+The API takes the Terabox video link or ID you provide, processes it, and quickly returns the video links, allowing you to download or use the videos in your applications.
 
-https://teraboxapi2.darkhacker7301.workers.dev/?url=Terabox_Video_Url
+## ✅ What You Get
+With this API, you will receive direct links to Terabox videos, making it simple to download and utilize them in your projects. Whether you need videos for personal use, development, or streaming, this tool has you covered.
 
-🌟 And one Another API in which you can download TeraBox video via Id like this -
-
-https://terabox.darkhacker7301.workers.dev/?id=Terabox_Video_id_here
-
-3. HOW IT WORKS: 🔄 It takes the link you give and gets the video's links for you. Simple and quick!
-
-4. WHAT YOU GET: ✅ You'll get the Terabox video links ready to use. Perfect for watching and downloading movies.
-
-Get Terabox videos easily and use them in your projects. 🎥🚀
-
-Example of Bot Made via this API ✨
-[Bots ](https://t.me/Terabox_VideoDownloderBot)
-  
-And another example of Web made via this API 
-
-[Click here to see  ⚡](https://ashlynnterabox.netlify.app/)
+## ✨ Examples
+ # Telegram Bot: Check out a bot built using this API for easy video downloads: [Terabox Video Downloader Bot](https://t.me/Terabox_VideoDownloderBot)
+ # Web Application: Explore a web application that leverages this API: [Terabox Web Downloader](https://ashlynnterabox.netlify.app/)
