@@ -29,5 +29,5 @@ The API takes the Terabox video link or ID you provide, processes it, and quickl
 With this API, you will receive direct links to Terabox videos, making it simple to download and utilize them in your projects. Whether you need videos for personal use, development, or streaming, this tool has you covered.
 
 ## ✨ Examples
- # Telegram Bot: Check out a bot built using this API for easy video downloads: [Terabox Video Downloader Bot](https://t.me/Terabox_VideoDownloderBot)
- # Web Application: Explore a web application that leverages this API: [Terabox Web Downloader](https://ashlynnterabox.netlify.app/)
+  Telegram Bot: Check out a bot built using this API for easy video downloads: [Terabox Video Downloader Bot](https://t.me/Terabox_VideoDownloderBot)
+  Web Application: Explore a web application that leverages this API: [Terabox Web Downloader](https://ashlynnterabox.netlify.app/)
