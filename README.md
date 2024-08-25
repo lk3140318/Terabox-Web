@@ -10,11 +10,16 @@
 ## 🚀 How to Use
 # By Video URL:
  Simply insert the Terabox video URL into the API endpoint:
+ 
 ``` https://ashlynn.serv00.net/Ashlynnterabox.php/?url=TERABOX_VIDEO_URL```
+
 or
+
  ```https://teraboxapi2.darkhacker7301.workers.dev/?url=Terabox_Video_Url```
 # By Video ID:
+
  Alternatively, you can download the video using its unique ID:
+ 
  ```https://terabox.darkhacker7301.workers.dev/?id=Terabox_Video_id_here```
 
 ## 🔄 How It Works
