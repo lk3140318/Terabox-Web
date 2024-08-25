@@ -30,4 +30,5 @@ With this API, you will receive direct links to Terabox videos, making it simple
 
 ## ✨ Examples
   Telegram Bot: Check out a bot built using this API for easy video downloads: [Terabox Video Downloader Bot](https://t.me/Terabox_VideoDownloderBot)
+  
   Web Application: Explore a web application that leverages this API: [Terabox Web Downloader](https://ashlynnterabox.netlify.app/)
